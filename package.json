@@ -35,7 +35,7 @@
     "ffmpeg-on-progress": "^1.0.0",
     "ffmpeg-probe": "^1.0.6",
     "fluent-ffmpeg": "^2.1.2",
-    "fs-extra": "^7.0.1",
+    "fs-extra": "^9.0.1",
     "get-pixels": "^3.3.2",
     "gl": "^4.4.1",
     "gl-buffer": "^2.1.2",
